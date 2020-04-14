@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PriorityQueueTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2020-04-14T08:17:02" hostname="yywus-MacBook-Air.local" time="0.023">
+  <properties/>
+  <testcase name="testException_NullPointerException[0]" classname="PriorityQueueTest" time="0.006"/>
+  <testcase name="Equal[0]" classname="PriorityQueueTest" time="0.002"/>
+  <testcase name="testException_ArrayStoreException[0]" classname="PriorityQueueTest" time="0.001"/>
+  <testcase name="testException_ClassCastException[0]" classname="PriorityQueueTest" time="0.001"/>
+  <testcase name="testException_NullPointerException[1]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="Equal[1]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_ArrayStoreException[1]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_ClassCastException[1]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_NullPointerException[2]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="Equal[2]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_ArrayStoreException[2]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_ClassCastException[2]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_NullPointerException[3]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="Equal[3]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_ArrayStoreException[3]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_ClassCastException[3]" classname="PriorityQueueTest" time="0.001"/>
+  <testcase name="testException_NullPointerException[4]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="Equal[4]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_ArrayStoreException[4]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_ClassCastException[4]" classname="PriorityQueueTest" time="0.001"/>
+  <testcase name="testException_NullPointerException[5]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="Equal[5]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_ArrayStoreException[5]" classname="PriorityQueueTest" time="0.0"/>
+  <testcase name="testException_ClassCastException[5]" classname="PriorityQueueTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
