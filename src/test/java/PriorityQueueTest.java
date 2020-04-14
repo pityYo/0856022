@@ -22,7 +22,7 @@ public class PriorityQueueTest {
         return Arrays.asList(new Object[][] {
                 {new Object[] {-5}, new Object[] {-5}},
                 {new Object[] {-1, 0, -68794, 15616}, new Object[] {-68794, -1, 0, 15616}},
-                {new Object[] {100, 20, 65654, 1}, new Object[] {9, 20, 100, 65654}},
+                {new Object[] {100, 20, 65654, 1}, new Object[] {1, 20, 100, 65654}},
                 {new Object[] {"100", "20", "65654", "1"}, new Object[] {"1", "100", "20", "65654"}},
                 {new Object[] {"dio", "Dio", "Jotaro", "ZaWarudo", "wryyyyy"}, new Object[] {"Dio", "Jotaro", "ZaWarudo", "dio", "wryyyyy"}},
                 {new Object[] {'c', 'C', 'X', 'a'}, new Object[] {'C', 'X', 'a', 'c'}}
